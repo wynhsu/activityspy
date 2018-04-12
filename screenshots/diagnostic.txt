@@ -1,0 +1,15 @@
+04-12 07:38:24.033 4309-4309/? I/zygote: Not late-enabling -Xcheck:jni (already on)
+04-12 07:38:24.110 4309-4309/? W/zygote: Unexpected CPU variant for X86 using defaults: x86
+04-12 07:38:24.731 4309-4309/edu.washington.wynhsu.activityspy I/InstantRun: starting instant run server: is main process
+04-12 07:38:25.483 4309-4309/edu.washington.wynhsu.activityspy I/MainActivity: onCreate event firedIntent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.wynhsu.activityspy/.MainActivity }
+04-12 07:38:25.547 4309-4331/edu.washington.wynhsu.activityspy D/OpenGLRenderer: HWUI GL Pipeline
+04-12 07:38:25.636 4309-4331/edu.washington.wynhsu.activityspy I/zygote: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+04-12 07:38:25.636 4309-4331/edu.washington.wynhsu.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+04-12 07:38:25.636 4309-4331/edu.washington.wynhsu.activityspy D/OpenGLRenderer: Swap behavior 1
+04-12 07:38:25.638 4309-4331/edu.washington.wynhsu.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-12 07:38:25.638 4309-4331/edu.washington.wynhsu.activityspy D/OpenGLRenderer: Swap behavior 0
+04-12 07:38:25.652 4309-4331/edu.washington.wynhsu.activityspy D/EGL_emulation: eglCreateContext: 0xe03052a0: maj 2 min 0 rcv 2
+04-12 07:38:25.658 4309-4331/edu.washington.wynhsu.activityspy D/EGL_emulation: eglMakeCurrent: 0xe03052a0: ver 2 0 (tinfo 0xe03032f0)
+04-12 07:38:25.761 4309-4331/edu.washington.wynhsu.activityspy D/EGL_emulation: eglMakeCurrent: 0xe03052a0: ver 2 0 (tinfo 0xe03032f0)
+04-12 07:38:30.122 4309-4331/edu.washington.wynhsu.activityspy D/EGL_emulation: eglMakeCurrent: 0xe03052a0: ver 2 0 (tinfo 0xe03032f0)
+04-12 07:38:30.400 4309-4309/edu.washington.wynhsu.activityspy E/MainActivity: We're going down, Captain!Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.wynhsu.activityspy/.MainActivity }
